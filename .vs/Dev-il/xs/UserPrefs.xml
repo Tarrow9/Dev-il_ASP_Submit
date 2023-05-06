@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{A23B043D-8E1E-40BD-8F62-792714ECA8D1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dev-il/appsettings.json">
+    <Files>
+      <File FileName="Dev-il/Models/Boards.cs" />
+      <File FileName="Dev-il/Models/JwtManageList.cs" />
+      <File FileName="Dev-il/Controllers/UsersController.cs" />
+      <File FileName="Dev-il/Controllers/BoardsController.cs" />
+      <File FileName="Dev-il/Program.cs" />
+      <File FileName="Dev-il/Controllers/ApiController.cs" Line="18" Column="43" />
+      <File FileName="Dev-il/Controllers/CustomHelpers.cs" />
+      <File FileName="Dev-il/appsettings.json" Line="16" Column="32" />
+      <File FileName="Dev-il/Dockerfile" />
+      <File FileName="Dev-il/Controllers/HomeController.cs" />
+      <File FileName="Dev-il/Properties/launchSettings.json" />
+      <File FileName="Dev-il/Properties/serviceDependencies.json" />
+      <File FileName="Dev-il/Views/Home/Privacy.cshtml" />
+      <File FileName="Dev-il/Views/Home/Index.cshtml" />
+      <File FileName="Dev-il/Views/Users/UploadProfileImage.cshtml" />
+      <File FileName="Dev-il/Models/ErrorViewModel.cs" />
+      <File FileName="Dev-il/Models/Users.cs" />
+      <File FileName="Dev-il/Models/UserRoles.cs" />
+      <File FileName="Dev-il/Models/Roles.cs" />
+      <File FileName="Dev-il/Migrations/20230330095911_test1.cs" />
+      <File FileName="Dev-il/Migrations/20230331074055_add_Comments_fix_PricipalKey.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dev-il" expanded="True">
+            <Node name="bangsoo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.bangsoo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

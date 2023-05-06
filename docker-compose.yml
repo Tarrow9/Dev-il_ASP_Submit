@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dev-il:
+    image: ${DOCKER_REGISTRY-}devil
+    build:
+      context: .
+      dockerfile: Dev-il/Dockerfile
